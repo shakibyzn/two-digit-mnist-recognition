@@ -15,9 +15,9 @@
 
 ## Description
 
-In this project, I went through several steps including generating n-digit sequences of images and also implementing several models to classifiy them
+In this project, I went through several steps including generating two-digit sequences of images and also implementing several models to classifiy them
 The required steps for this project are as follows: <br/>
-1- generating a two-digit mnist dataset ( in long-term, I am going to include n-digit dataset to classifiy images into 11 classes (mnist has 10 classes and blank class) <br/>
+1- generating a two-digit mnist dataset ( to classifiy images into 11 classes (mnist has 10 classes and blank class) <br/>
 2- implementing a CNN model (custom-model-with-batchnormalization)<br/>
 3- implementing a CNN-LSTM model<br/>
 
