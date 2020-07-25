@@ -1,6 +1,6 @@
 # mnist-classification
 
-> Generating n-digit images out of mnist dataset and then using CNN, CNN-LSTM models to classify them
+> Generating two-digit images out of mnist dataset and then using CNN, CNN-LSTM models to classify them
 
 ---
 
