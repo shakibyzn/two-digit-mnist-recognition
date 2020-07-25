@@ -21,6 +21,8 @@ The required steps for this project are as follows: <br/>
 2- implementing a CNN model (custom-model-with-batchnormalization)<br/>
 3- implementing a CNN-LSTM model<br/>
 
+To get an overview of the models' architecture, I have included the model visualizations in the Images folder. Needless to say,
+I visualized my models using Netron which is a viewer for neural networks.
 
 #### Techniques
 
